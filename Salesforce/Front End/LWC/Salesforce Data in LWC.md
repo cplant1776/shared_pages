@@ -7,7 +7,7 @@ There's multiple ways to access/modify Salesforce data from Lightning.
 2. Wire Adapters
 3. Apex Methods
 
-## [Lightning Data Service](https://developer.salesforce.com/docs/component-library/bundle/lightning-record-form/documentation)
+## [Lightning Data Service (SLDS)](https://developer.salesforce.com/docs/component-library/bundle/lightning-record-form/documentation)
 
 ### Overview
 
